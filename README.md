@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @j-matyHTML
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on open-source python projects
 - 📫 How to reach me ...
 
 <!---
